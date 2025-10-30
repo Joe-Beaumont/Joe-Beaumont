@@ -1,5 +1,5 @@
 # Hi, I'm Joe Beaumont
-### Full-stack developer | Former Analytical Scientist
+### Full-stack developer | Analytical Scientist
 
 ---
 
