@@ -13,12 +13,12 @@ My fascination with technology started early, I spent a lot of time creating RPG
 ---
 
 ## Core Developer Skills
-- Languages: JavaScript (Node.js, Browser), Python, HTML, CSS
-- Front-End: React, React Native, Tailwind CSS, responsive design
-- Back-End: Express, RESTful APIs, SQL/PSQL, Socket.IO
-- Testing: Jest, Supertest, Test-Driven-Development (TDD)
-- Deployment & Hosting: Render, Supabase
-- Collaboration: Agile, Scrum, paired programming, Git & GitHub workflow
+- **Languages:** JavaScript (Node.js, Browser), Python, HTML, CSS
+- **Front-End:** React, React Native, Tailwind CSS, responsive design
+- **Back-End:** Express, RESTful APIs, SQL/PSQL, Socket.IO
+- **Testing:** Jest, Supertest, Test-Driven-Development (TDD)
+- **Deployment & Hosting:** Render, Supabase
+- **Collaboration:** Agile, Scrum, paired programming, Git & GitHub workflow
 
 ---
 
@@ -28,22 +28,22 @@ My fascination with technology started early, I spent a lot of time creating RPG
   
   A full-stack news app where users can browse, post, and vote on articles.
   
-  - Built using React, Tailwind CSS and Node.js
-  - RESTful API with PostgreSQL database
+  - Built using **React**, **Tailwind CSS** and **Node.js**
+  - **RESTful API** with **PostgreSQL** database
   - Implemented routing and responsive design
 
 ### [Handy](https://github.com/Joe-Beaumont/Handy-App-.git)
   
   A React Native app connecting clients with service providers for DIY jobs.
   
-  - Uses PostGIS for geolocation and Expo Camera for photo uploads
-  - Team-built using Agile and Scrum methodologies
+  - Uses **PostGIS** for geolocation and **Expo Camera** for photo uploads
+  - Team-built using **Agile** and **Scrum** methodologies
 
 ### [Event-Manager](https://github.com/Joe-Beaumont/Event-Manager)
 
   A full-stack web-app allowing users to book events and add to their calendars.
 
-  - Features Google Calendar API integration
+  - Features **Google Calendar API** integration
   - Built in under four weeks as a contracted piece of work
 
 ---
@@ -54,8 +54,8 @@ My fascination with technology started early, I spent a lot of time creating RPG
   
   A multiplayer bouldering game built in React Native.
   
-  - Real-time interaction using Socket.IO
-  - QR generation and scanning for joining game sessions
+  - Real-time interaction using **Socket.IO**
+  - **QR generation and scanning** for joining game sessions
 
 ---
 
