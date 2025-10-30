@@ -24,7 +24,7 @@ My fascination with technology started early, I spent a lot of time creating RPG
 
 ## Example Projects
 
-### NC-News
+### [NC-News](https://github.com/Joe-Beaumont/nc-news.git)
   
   A full-stack news app where users can browse, post, and vote on articles.
   
@@ -32,14 +32,14 @@ My fascination with technology started early, I spent a lot of time creating RPG
   - RESTful API with PostgreSQL database
   - Implemented routing and responsive design
 
-### Handy
+### [Handy](https://github.com/Joe-Beaumont/Handy-App-.git)
   
   A React Native app connecting clients with service providers for DIY jobs.
   
   - Uses PostGIS for geolocation and Expo Camera for photo uploads
   - Team-built using Agile and Scrum methodologies
 
-### Event-Manager
+### [Event-Manager](https://github.com/Joe-Beaumont/Event-Manager)
 
   A full-stack web-app allowing users to book events and add to their calendars.
 
@@ -50,7 +50,7 @@ My fascination with technology started early, I spent a lot of time creating RPG
 
 ## Ongoing Projects
 
-### Goated
+### [Goated](https://github.com/Joe-Beaumont/BoulderingFun.git)
   
   A multiplayer bouldering game built in React Native.
   
@@ -60,6 +60,6 @@ My fascination with technology started early, I spent a lot of time creating RPG
 ---
 
 ## Contact Info
-- Email: joseph.beaumont@live.co.uk
-- LinkedIn: linkedin.com/in/joseph-beaumont-4850a1b5
-- Portfolio: joe-beaumont.github.io/Portfolio
+- Email: [joseph.beaumont@live.co.uk](joseph.beaumont@live.co.uk)
+- LinkedIn: [linkedin.com/in/joseph-beaumont-4850a1b5](linkedin.com/in/joseph-beaumont-4850a1b5)
+- Portfolio: [joe-beaumont.github.io/Portfolio](joe-beaumont.github.io/Portfolio)
