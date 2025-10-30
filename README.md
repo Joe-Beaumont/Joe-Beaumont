@@ -60,6 +60,6 @@ My fascination with technology started early, I spent a lot of time creating RPG
 ---
 
 ## Contact Info
-- Email: [joseph.beaumont@live.co.uk](joseph.beaumont@live.co.uk)
-- LinkedIn: [linkedin.com/in/joseph-beaumont-4850a1b5](linkedin.com/in/joseph-beaumont-4850a1b5)
-- Portfolio: [joe-beaumont.github.io/Portfolio](joe-beaumont.github.io/Portfolio)
+- **Email:** [joseph.beaumont@live.co.uk](mailto:joseph.beaumont@live.co.uk)
+- **LinkedIn:** [linkedin.com/in/joseph-beaumont-4850a1b5](https://linkedin.com/in/joseph-beaumont-4850a1b5)
+- **Portfolio:** [joe-beaumont.github.io/Portfolio](https://joe-beaumont.github.io/Portfolio)
